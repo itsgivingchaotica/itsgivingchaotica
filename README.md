@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @itsgivingchaotica
-- 👀 I’m interested in learning modern programming techniques
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything!
+- 👋 Hi, I’m Saoirse Siobhan Ebert
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently working on projects using Java and C++ 
+- 💞️ I’m looking for internships to apply and expand my knowledge and experience
 
 <!---
 itsgivingchaotica/itsgivingchaotica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
