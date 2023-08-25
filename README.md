@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saoirse Siobhan Ebert
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently working on projects using Java and C++ 
+- 🌱 I’m currently working on projects using React, Redux, Node, Express, PostgreSQL, Sequelize, Material UI, and Tailwind CSS
 - 💞️ I’m looking for internships to apply and expand my knowledge and experience
 
 <!---
