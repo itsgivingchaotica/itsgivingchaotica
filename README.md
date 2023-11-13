@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saoirse Siobhan Ebert
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Full-Stack Software Development and currently intern at NYC Human Resources Administration as a .NET Developer
 - 🌱 I’m currently working on projects using React, Redux, Node, Express, PostgreSQL, Sequelize, Material UI, and Tailwind CSS
 - 💞️ I’m looking for internships to apply and expand my knowledge and experience
 
