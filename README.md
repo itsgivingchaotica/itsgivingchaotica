@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Saoirse Siobhan Ebert
-- 👀 I’m interested in Full-Stack Software Development and currently intern at NYC Human Resources Administration as a .NET Developer
-- 🌱 I’m currently working on projects using React, Redux, Node, Express, PostgreSQL, Sequelize, Material UI, and Tailwind CSS
-- 💞️ I’m looking for internships to apply and expand my knowledge and experience
+- 👋 Hi, I’m Saoirse Siobhan Ebert. 
+- 👀 I’m a Full-Stack Software Development with a strong interest in global state management and human-computer interaction.
+- 🌱 I’m currently working on projects using React, Redux, Zustand, Node, Express, Ruby on Rails, PostgreSQL, Sequelize, Material UI, Framer-Motion, and Tailwind CSS
+- 💞️ I’m looking for an Entry-Level Software Engineer Role after having previously interned at Smartsheet, NYC Human Resources Administration and NYC Administration for Children's Services.
 
 <!---
 itsgivingchaotica/itsgivingchaotica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
