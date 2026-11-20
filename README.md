@@ -1,49 +1,72 @@
 👋 Hi, I’m Saoirse Siobhan Ebert!
 
-I’m a Full-Stack Software Engineer with a B.S. in Computer Science from Brooklyn College and previous engineering experience at Smartsheet, NYC Human Resources Administration, and NYC Administration for Children’s Services.
+I’m a Full-Stack Software Engineer with a B.S. in Computer Science from Brooklyn College and previous professional experience at Smartsheet, NYC Human Resources Administration, and NYC Administration for Children’s Services.
 
-My interests include full-stack application development, scalable SaaS architecture, global state management, human-computer interaction (HCI), and the integration of AI technologies into practical, user-centered software.
+My technical interests include full-stack application architecture, global state management, human-computer interaction (HCI), AI-assisted software engineering, and developing scalable, user-centered applications.
 
-🚀 What I’m Currently Building
+🚀 Currently Building
 
-Pet Care Management Platform | Private Repository · Active Development
+Pet Care Management Platform
 
-I’m independently developing a full-stack pet care management application, initially designed to support my own pet sitting business, Pet Sitting Services by Siobhan, with a longer-term vision of scaling into a SaaS platform for independent pet care professionals.
+Independent Full-Stack & AI Development Project | Active Development
 
-The application focuses on streamlining scheduling, client and pet management, service reporting, and business operations, with planned AI-powered capabilities to reduce administrative work and improve communication between care providers and clients.
+I’m designing and developing a proprietary pet care management platform for my business, Pet Sitting Services by Siobhan, with a longer-term vision of expanding into a scalable SaaS solution for independent pet care professionals.
 
-Technical Stack & Development Technologies
+The platform is designed to streamline client and pet management, scheduling, service bookings, reporting, and administrative workflows. Its AI roadmap focuses on reducing repetitive tasks, supporting personalized client communications, and improving operational efficiency while maintaining human oversight of consequential actions.
 
-* Frontend: React, TypeScript, Zustand / Redux, Tailwind CSS
-* Backend: Node.js, Express, Ruby on Rails, RESTful APIs
-* Database & ORM: PostgreSQL, Sequelize / Active Record
-* AI & LLM Development: Claude, Claude Code, GitHub Copilot, LLM API integration, prompt engineering, AI-assisted workflow design
-* Engineering & DevOps: Git, GitHub, Docker, CI/CD, API design, automated testing
+Application Technology Stack
 
-🔒 Repository Access
+* Frontend: React, TypeScript, Vite, React Router, Tailwind CSS
+* Backend: Ruby on Rails 8 (API), RESTful JSON APIs
+* Database: PostgreSQL
+* Authentication & Security: Rails session-based authentication, bcrypt, secure HTTP-only cookies, CSRF protection
+* Background Processing: Solid Queue / Active Job
+* Cloud & Storage: AWS S3 (private object storage)
+* Testing: RSpec, Vitest, React Testing Library
+* Architecture: Single-origin deployment, prerendered public pages with hydration, lazy-loaded administrative interface
 
-This project is maintained in a private GitHub organization because it contains proprietary source code and is currently under active development.
+AI Development & Integration
 
-Although the source code is not publicly accessible, I’m happy to discuss the application’s architecture, technical implementation, AI integration strategy, and development progress.
+* Development Tools: Claude Code, Anthropic Claude, GitHub Copilot
+* AI Application Architecture: LLM API integration, structured outputs, tool calling, and human-in-the-loop workflow design
+* Planned AI Capabilities: Assisted service reporting, client communication workflows, and administrative automation
+* Engineering Approach: Deterministic business logic for scheduling, pricing, and payments, with AI reserved for appropriate assistive workflows
 
-📩 Interested in a demo or learning more? Feel free to contact me at ssiobhan.ebert@gmail.com.
+LLM-powered product features are part of the development roadmap; model/provider selection and production integrations are still being evaluated.
 
-💻 Additional Technical Interests
+🔒 Private Repository & Demo Availability
 
-* Frontend architecture and global state management
-* Full-stack JavaScript/TypeScript development
-* AI-assisted software engineering and LLM-powered applications
-* API development and relational database design
-* Human-computer interaction and accessible, user-centered interfaces
+The application is maintained within a private GitHub organization to protect proprietary source code and intellectual property during active development.
 
-🌱 Professional Goals
+While the repository is not publicly accessible, I’m happy to discuss the system architecture, implementation decisions, AI integration strategy, and development progress.
 
-I’m currently seeking entry-level and junior Software Engineering opportunities, particularly in full-stack development, SaaS products, and AI-enabled applications.
+📩 For project inquiries, technical discussions, or demo requests: ssiobhan.ebert@gmail.com
 
-I’m interested in joining an engineering team where I can contribute my previous production engineering experience, continue growing technically, and help build software that solves meaningful problems.
+⸻
+
+🛠️ Additional Technical Skills & Experience
+
+Programming Languages: JavaScript, TypeScript, Ruby, Java, C#, C++
+
+Frontend & Mobile: React, React Native, Redux, Zustand, HTML, CSS, Material UI, Tailwind CSS, Framer Motion
+
+Backend: Ruby on Rails, Node.js, Express, ASP.NET Core MVC, RESTful APIs
+
+Databases & ORM: PostgreSQL, MySQL, Microsoft SQL Server, Snowflake, Sequelize, Active Record
+
+Cloud, DevOps & Developer Tools: AWS, Docker, Git, GitHub, CI/CD Pipelines, Unix/Linux, Shell Scripting, Automated Testing
+
+AI-Assisted Development: Claude Code, GitHub Copilot, prompt engineering, AI-assisted code review and development workflows
+
+⸻
+
+🌱 Career Interests
+
+I’m currently seeking Junior / Entry-Level Software Engineering opportunities, particularly in full-stack development, SaaS engineering, and AI-enabled applications.
+
+I’m interested in contributing to production software, collaborating across engineering and product teams, and continuing to develop my skills in modern application architecture and AI integration.
 
 📬 Contact: ssiobhan.ebert@gmail.com
-
 <!---
 itsgivingchaotica/itsgivingchaotica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
